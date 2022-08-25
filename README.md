@@ -13,18 +13,18 @@
 
 - 📫 How to reach me **chaitanyasai321@gmail.com**
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1atgmK5K1M25WzOhySKirt6WTNc2jWEuJ/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1atgmK5K1M25WzOhySKirt6WTNc2jWEuJ/view?usp=sharing](https://drive.google.com/file/d/1atgmK5K1M25WzOhySKirt6WTNc2jWEuJ/view?usp=sharing)
 
 - ⚡ Fun fact **I'm a Night Owl.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/neelapu-sai-chaitanya-reddy-3129a4190/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/neelapu-sai-chaitanya-reddy-3129a4190/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/chaitu195" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/chaitu195" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/chaitanyasai321?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/chaitanyasai321?hr_r=1" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/chaitusmartz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/chaitusmartz" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/schaitu6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/schaitu6/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/chaitanyasai321/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/chaitanyasai321/practice" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/neelapu-sai-chaitanya-reddy-3129a4190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neelapu-sai-chaitanya-reddy-3129a4190" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/chaitu195" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="chaitu195" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/chaitanyasai321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chaitanyasai321" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/chaitusmartz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="chaitusmartz" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/schaitu6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="schaitu6" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/chaitanyasai321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="chaitanyasai321" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
