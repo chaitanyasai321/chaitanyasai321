@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sai Chaitanya</h1>
 <h3 align="center">COMPETITIVE PROGRAMMER | FULL STACK DEVELOPER | ANDROID DEVELOPER | SELF LEARNER</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitanyasai321&label=Profile%20views&color=0e75b6&style=flat" alt="chaitanyasai321" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=chaitanyasai321&label=Profile%20views&color=0e75b6&style=flat" alt="chaitanyasai321" /> </p>
 
 - 🔭 I’m currently working as **Software Development Engineer-1 at Housing.com**
 
